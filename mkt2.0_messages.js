@@ -1,5 +1,5 @@
 {
-  "Mkt3L10n.AccountAnalyzerChart.Trend": "Tendência testing now",
+  "Mkt3L10n.AccountAnalyzerChart.Trend": "Tendência testing now checking now",
   "Mkt3L10n.AccountAnalyzerChart.Opportunity": "Oportunidade",
   "Mkt3L10n.AccountAnalyzerChart.Interactions": "Interações",
   "Mkt3L10n.AccountAnalyzerChart.Week_Of_Date_Interaction": "<b>Semana de {0} - ({1} interação{2})</b> ",
